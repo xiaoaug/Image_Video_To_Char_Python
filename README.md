@@ -13,9 +13,10 @@
 
 # 需要做什么准备？
 
-1. PIL: `pip install pillow`
-2. tqdm: `pip install tqdm`
-3. OpenCV: `pip install opencv-python`
+1. 将 tool 文件夹内的 ffmpeg.7z 压缩包进行解压
+2. PIL: `pip install pillow`
+3. tqdm: `pip install tqdm`
+4. OpenCV: `pip install opencv-python`
 
 # 如何运行图片转字符画程序？
 
