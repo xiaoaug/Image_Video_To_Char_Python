@@ -5,6 +5,12 @@
 - 图片转字符画效果：打开项目文件 `./files/test.txt`
 - 视频转字符画效果：[bilibili](https://www.bilibili.com/video/BV1ve4y197qW/)
 
+<img src="https://github.com/xiaoaug/Image_Video_To_Char_Python/assets/39291338/74eefd50-880e-4b89-8c5d-6aee629218a5" width="700">
+
+
+<img src="https://github.com/xiaoaug/Image_Video_To_Char_Python/assets/39291338/82c15c49-e877-456d-9642-a041c86eb849" width="400">
+
+
 # 需要做什么准备？
 
 1. PIL: `pip install pillow`
